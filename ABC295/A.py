@@ -1,4 +1,4 @@
-n = map(int, input())
+n = int(input())
 w = list(input().split())
 words = ["and", "not", "that", "the", "you"]
 

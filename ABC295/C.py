@@ -1,6 +1,6 @@
 from collections import Counter
 
-n = map(int, input())
+n = int(input())
 a = list(map(int, input().split()))
 
 ans = 0
